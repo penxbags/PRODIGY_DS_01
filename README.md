@@ -1,5 +1,5 @@
 # PRODIGY_DS_01
-Data visualization through bar chart
+**Data visualization through bar chart.**
 The bar graph visualizes the distribution of car origins from the dataset. 
 The 'origin' column is categorized into various regions, and the count of cars from each region is plotted on the graph. 
 According to the bar chart, the 'USA' category exhibits the highest count of cars, indicating that the dataset predominantly consists of cars originating from the USA. 
